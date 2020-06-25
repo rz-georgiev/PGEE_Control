@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1072</width>
+    <height>700</height>
+   </rect>
+  </property>
+  <property name="contextMenuPolicy">
+   <enum>Qt::NoContextMenu</enum>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="MainResources.qrc">
+    <normaloff>:/Icons/MainResources/PGEE_Control_Version.png</normaloff>:/Icons/MainResources/PGEE_Control_Version.png</iconset>
+  </property>
+  <property name="toolTip">
+   <string/>
+  </property>
+  <property name="inputMethodHints">
+   <set>Qt::ImhNone</set>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>64</width>
+    <height>64</height>
+   </size>
+  </property>
+  <property name="tabShape">
+   <enum>QTabWidget::Rounded</enum>
+  </property>
+  <property name="dockNestingEnabled">
+   <bool>false</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QStatusBar" name="statusBar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1072</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>Основни опции</string>
+    </property>
+    <addaction name="action"/>
+    <addaction name="action_6"/>
+    <addaction name="action_17"/>
+    <addaction name="action_5"/>
+    <addaction name="separator"/>
+    <addaction name="action_2"/>
+    <addaction name="action_15"/>
+    <addaction name="separator"/>
+   </widget>
+   <widget class="QMenu" name="menu_6">
+    <property name="title">
+     <string>Помощ</string>
+    </property>
+    <addaction name="action_PGEE_Control"/>
+   </widget>
+   <widget class="QMenu" name="menu_7">
+    <property name="title">
+     <string>Екстри</string>
+    </property>
+    <addaction name="action_18"/>
+    <addaction name="action_3"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_7"/>
+   <addaction name="menu_6"/>
+  </widget>
+  <widget class="QToolBar" name="toolBar">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="contextMenuPolicy">
+    <enum>Qt::DefaultContextMenu</enum>
+   </property>
+   <property name="acceptDrops">
+    <bool>false</bool>
+   </property>
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <property name="toolTip">
+    <string/>
+   </property>
+   <property name="statusTip">
+    <string/>
+   </property>
+   <property name="whatsThis">
+    <string/>
+   </property>
+   <property name="accessibleName">
+    <string/>
+   </property>
+   <property name="accessibleDescription">
+    <string/>
+   </property>
+   <property name="inputMethodHints">
+    <set>Qt::ImhNone</set>
+   </property>
+   <property name="movable">
+    <bool>false</bool>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::AllToolBarAreas</set>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolButtonStyle">
+    <enum>Qt::ToolButtonTextUnderIcon</enum>
+   </property>
+   <property name="floatable">
+    <bool>true</bool>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="action"/>
+   <addaction name="action_6"/>
+   <addaction name="separator"/>
+   <addaction name="action_4"/>
+   <addaction name="separator"/>
+   <addaction name="action_17"/>
+   <addaction name="action_5"/>
+   <addaction name="separator"/>
+   <addaction name="action_3"/>
+   <addaction name="separator"/>
+   <addaction name="action_18"/>
+   <addaction name="action_2"/>
+   <addaction name="separator"/>
+   <addaction name="action_15"/>
+  </widget>
+  <action name="action">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/user_add (2).ico</normaloff>:/Icons/MainResources/user_add (2).ico</iconset>
+   </property>
+   <property name="text">
+    <string>Нов ученик</string>
+   </property>
+  </action>
+  <action name="action_2">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/_active_ Print.ico</normaloff>:/Icons/MainResources/_active_ Print.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Принтирай</string>
+   </property>
+  </action>
+  <action name="action_PGEE_Control">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/PGEE_Control_Version.png</normaloff>:/Icons/MainResources/PGEE_Control_Version.png</iconset>
+   </property>
+   <property name="text">
+    <string>За PGEE_Control</string>
+   </property>
+  </action>
+  <action name="action_15">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/_active_ Exit.ico</normaloff>:/Icons/MainResources/_active_ Exit.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Изход</string>
+   </property>
+  </action>
+  <action name="action_17">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/Sharpness.ico</normaloff>:/Icons/MainResources/Sharpness.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Електронен дневник [четене]</string>
+   </property>
+  </action>
+  <action name="action_18">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/webcamera-Vista.ico</normaloff>:/Icons/MainResources/webcamera-Vista.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Камера</string>
+   </property>
+  </action>
+  <action name="action_4">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/folder_customer_128.ico</normaloff>:/Icons/MainResources/folder_customer_128.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Отвори списък с ученици</string>
+   </property>
+  </action>
+  <action name="action_3">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/NewR/Folder-Documents-icon.png</normaloff>:/Icons/MainResources/NewR/Folder-Documents-icon.png</iconset>
+   </property>
+   <property name="text">
+    <string>Удостоверения</string>
+   </property>
+  </action>
+  <action name="action_5">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/NewR/Text-Edit-icon.png</normaloff>:/Icons/MainResources/NewR/Text-Edit-icon.png</iconset>
+   </property>
+   <property name="text">
+    <string>Електронен дневник [запис]</string>
+   </property>
+  </action>
+  <action name="action_6">
+   <property name="icon">
+    <iconset resource="MainResources.qrc">
+     <normaloff>:/Icons/MainResources/edit-icon.png</normaloff>:/Icons/MainResources/edit-icon.png</iconset>
+   </property>
+   <property name="text">
+    <string>Редактирай информация</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="MainResources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

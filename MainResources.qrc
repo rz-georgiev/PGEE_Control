@@ -1,0 +1,109 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>MainResources/pgee_logo.ico</file>
+        <file>MainResources/Courage-dog-tv-01Big.png</file>
+        <file>MainResources/FinalPadlock.png</file>
+        <file>MainResources/FinalPadlock2.png</file>
+        <file>MainResources/Who_is_it.png</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>MainResources/teacher_icon.jpg</file>
+        <file>MainResources/_active_ Copy.ico</file>
+        <file>MainResources/_active_ Cut.ico</file>
+        <file>MainResources/_active_ Exit.ico</file>
+        <file>MainResources/_active_ Find.ico</file>
+        <file>MainResources/_active_ Help.ico</file>
+        <file>MainResources/_active_ No.ico</file>
+        <file>MainResources/_active_ Past.ico</file>
+        <file>MainResources/_active_ Print.ico</file>
+        <file>MainResources/_active_ Redo.ico</file>
+        <file>MainResources/_active_ Remove.ico</file>
+        <file>MainResources/_active_ Send E-Mail.ico</file>
+        <file>MainResources/_active_ Settings.ico</file>
+        <file>MainResources/_active_ Undo.ico</file>
+        <file>MainResources/_active_ Update.ico</file>
+        <file>MainResources/Sharpness.ico</file>
+        <file>MainResources/Iconshock-Real-Vista-General-Camera.ico</file>
+        <file>MainResources/Iconshock-Real-Vista-General-Webcam.ico</file>
+        <file>MainResources/webcamera-Vista.ico</file>
+        <file>MainResources/android_camera_capture.ico</file>
+        <file>MainResources/android_camera_final.ico</file>
+        <file>MainResources/folder_customer_128.ico</file>
+        <file>MainResources/user_add (2).ico</file>
+        <file>MainResources/refresh.ico</file>
+        <file>MainResources/Ampeross-Qetto-2-Check.ico</file>
+        <file>MainResources/Ampeross-Qetto-2-No.ico</file>
+        <file>MainResources/ListWithStudents.png</file>
+        <file>MainResources/PGEE_NEW_LOGO.ico</file>
+        <file>MainResources/ListNotes.png</file>
+        <file>MainResources/BelejkaZaDetski.jpg</file>
+        <file>MainResources/DescriptionOfStudent.jpg</file>
+        <file>MainResources/NewR/File-Open-icon.png</file>
+        <file>MainResources/NewR/Folder-Documents-icon.png</file>
+        <file>MainResources/NewR/my-recent-documents-icon.png</file>
+        <file>MainResources/NewR/Text-Edit-icon.png</file>
+        <file>MainResources/NewR/webdev-file-icon.png</file>
+        <file>MainResources/PGEE_NEW_LOGO.png</file>
+        <file>MainResources/Button-Refresh-icon.png</file>
+        <file>MainResources/Delete-icon.png</file>
+        <file>MainResources/Edit Add.png</file>
+        <file>MainResources/edit-icon.png</file>
+        <file>MainResources/refill.png</file>
+        <file>MainResources/PGEE_Control_Version.png</file>
+        <file>MainResources/Clean-Master-Cleaner-FREE-Icon.png</file>
+        <file>MainResources/MeLocker.jpg</file>
+    </qresource>
+    <qresource prefix="/rubik">
+        <file>MainResources/rubiks/tumble_cube_slow-0.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-1.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-2.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-3.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-4.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-5.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-6.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-7.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-8.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-9.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-10.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-11.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-12.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-13.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-14.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-15.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-16.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-17.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-18.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-19.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-20.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-21.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-22.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-23.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-24.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-25.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-26.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-27.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-28.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-29.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-30.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-31.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-32.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-33.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-34.png</file>
+        <file>MainResources/rubiks/tumble_cube_slow-35.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>MainResources/camera-shutter-click-01.wav</file>
+        <file>MainResources/door-lock-1.wav</file>
+        <file>MainResources/door-lock-2.wav</file>
+    </qresource>
+    <qresource prefix="/Sqlite Database">
+        <file>release/SqliteDatabase/PGEE.sql</file>
+        <file>release/SqliteDatabase/PGEE.sqlite</file>
+    </qresource>
+    <qresource prefix="/LockingTimerRubiks">
+        <file>MainResources/LockingTimerRubiks/LockingRubik1.png</file>
+        <file>MainResources/LockingTimerRubiks/LockingRubik2.png</file>
+        <file>MainResources/LockingTimerRubiks/0.png</file>
+        <file>MainResources/LockingTimerRubiks/9.png</file>
+    </qresource>
+</RCC>
