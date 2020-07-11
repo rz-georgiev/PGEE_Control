@@ -1,3 +1,3 @@
 # PGEE_Control
 
-A 2013 sound signal encrypting NTIT challenge project. 
+A 2013 school management NTIT challenge project. 
